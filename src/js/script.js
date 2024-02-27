@@ -220,7 +220,7 @@
           ext_grid.appendChild(div);
       }
   }
-  fetch('https://raw.githubusercontent.com/d3ward/awesome-extensions-for-kiwi/master/data.json')
+  fetch('https://raw.githubusercontent.com/MrBaBlU0/Web-test/master/data.json')
       .then(function (response) {
           return response.json();
       })
