@@ -1,0 +1,25 @@
+[
+    {
+        "name": "uBlock Origin",
+        "author": "gorhill",
+        "description":"An efficient blocker add-on for various browsers. Fast, potent, and lean.",
+        "logo": "https://raw.githubusercontent.com/gorhill/uBlock/master/src/img/icon_128.png",
+        "cwsurl": "https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm",
+        "officialurl": "https://ublockorigin.com/",
+        "githuburl":"https://github.com/gorhill/uBlock",
+        "category": "Privacy & Security"
+    },
+    {
+   
+        "name": "Floatly",
+        "author":"d3ward",
+        "description":"Floatly is an awesome floating button that brings quick actions from any website.",
+        "logo":"https://raw.githubusercontent.com/d3ward/floatly/master/src/png/icon152.png",
+        "cwsurl": "",
+        "officialurl": "",
+        "githuburl":"https://github.com/d3ward/floatly",
+        "category": "Accessibility"
+    },
+    {
+
+]
